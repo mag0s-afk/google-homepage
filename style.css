@@ -1,0 +1,38 @@
+html {
+    background:white;
+    
+}
+
+h1{
+    padding-top: 140px;
+    text-align: -webkit-center;
+}
+h2
+{
+margin:auto;
+margin-bottom:5px;
+padding-bottom: 5px;
+padding-top: 0px;
+    text-align: -webkit-center;
+    outline: 1px solid rgb(204, 123, 31);
+    width: 500px;
+    .box-width.percentage-half {
+        width: 50%; // half %
+    }
+    .box-width.percentage-full {
+        width: 100%; // full %
+    }
+    .box-width.pixel {
+        width: 200px; // px
+    }
+    .box-width.em {
+        width: 20em; // em
+    }
+    .box-width.em {
+        width: 20rem; // rem
+    }
+}
+
+
+
+}
